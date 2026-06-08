@@ -7,6 +7,10 @@ and/or a flick of the mouse to the left screen edge. Inspired by https://github.
 
 It just presses the button Chrome already has: the "Collapse Tabs" / "Expand Tabs" control on the native vertical sidebar. It uses the macOS Accessibility API.
 
+### Demo
+<img width="720" height="405" alt="demo-vert" src="https://github.com/user-attachments/assets/1530a8b4-a4e7-4fe2-b138-2d93c36e6ff8" />
+
+
 ## Requirements
 
 - macOS 13+
